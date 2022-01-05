@@ -27,6 +27,9 @@ section{
     padding: 1% 2%;
     border-radius: 10px;
 }
-.top banner{
-    background-image: url(imagee/modern-blue-dots-circle-background.jpg);
+.topbanner{
+    background-image: url(imagee/pngtree-cannes-purple-semicircle-image_1264319.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
 }
