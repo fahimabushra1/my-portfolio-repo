@@ -11,9 +11,8 @@ section{
     display: flex;
 
 }
-.half p{
+.halfr{
     width: 50%;
-    padding-left: 5%;
 }
 .half img{
     width: 80%;
@@ -31,5 +30,6 @@ section{
     background-image: url(imagee/pngtree-cannes-purple-semicircle-image_1264319.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 50%;
+    background-size: 80%;
+    padding-bottom: 10%;
 }
